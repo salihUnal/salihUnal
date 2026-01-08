@@ -19,12 +19,12 @@
 
 ---
 
-### 🚀 Hakkımda
-
-Ben bir **Full-Stack Geliştirici** ve **Mobil Uygulama Uzmanı**yım. Modern teknolojiler kullanarak kullanıcı dostu, şık ve performanslı çözümler üretmeyi seviyorum. Özellikle React Native, C# .NET ve Modern Web teknolojileri üzerinde uzmanlaşıyorum.
+Ben bir **Full-Stack Geliştirici**, **Mobil Uygulama Uzmanı** ve **Sistem Destek Uzmanı**yım. Modern teknolojiler kullanarak kullanıcı dostu, şık ve performanslı çözümler üretmeyi seviyorum.
 
 - 📱 **Mobile Development:** React Native (Expo) ile premium mobil deneyimler.
 - 💻 **Desktop & Systems:** C# .NET (WinForms/WPF) ile kurumsal otomasyon çözümleri.
+- 🐧 **Linux & Support:** Linux sistem yönetimi, Helpdesk desteği ve sistem optimizasyonu.
+- 🧪 **App Testing & QA:** Uygulama test süreçleri, hata ayıklama ve kalite kontrol.
 - 🌐 **Web Development:** React, PHP ve modern CSS (Tailwind) ile dinamik web projeleri.
 - 🛠️ **Problem Solving:** Sistem optimizasyonu ve özel patch/update yazılımları.
 
@@ -37,11 +37,13 @@ Ben bir **Full-Stack Geliştirici** ve **Mobil Uygulama Uzmanı**yım. Modern te
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-0052CC?style=for-the-badge&logo=testcafe&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
