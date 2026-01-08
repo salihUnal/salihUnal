@@ -106,3 +106,7 @@ Ben bir **Full-Stack Geliştirici** ve **Mobil Uygulama Uzmanı**yım. Modern te
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+
+
+![snake gif](https://github.com/salihUnal/salihUnal/blob/output/github-contribution-grid-snake.gif)
