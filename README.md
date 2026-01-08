@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dklvz02ew/image/upload/v1767865911/Gemini_Generated_Image_7878e47878e47878_xgghxb.png)
+![Banner](https://res.cloudinary.com/dklvz02ew/image/upload/w_1200,c_scale/v1767865911/Gemini_Generated_Image_7878e47878e47878_xgghxb.png)
 
 # 👋 Merhaba, Ben Salih Ünal!
 
