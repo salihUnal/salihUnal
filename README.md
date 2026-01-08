@@ -1,8 +1,8 @@
-
-
+<p align="center">
+  <img src="https://res.cloudinary.com/dklvz02ew/image/upload/v1767865911/Gemini_Generated_Image_7878e47878e47878_xgghxb.png" width="100%" />
+</p>
 
 # 👋 Merhaba, Ben Salih Ünal!
-
 
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate FullStack Developer from Turkey</h3>
@@ -46,7 +46,6 @@ Ben bir **Full-Stack Geliştirici** ve **Mobil Uygulama Uzmanı**yım. Modern te
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -109,7 +108,5 @@ Ben bir **Full-Stack Geliştirici** ve **Mobil Uygulama Uzmanı**yım. Modern te
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
-
 
 ![snake gif](https://github.com/salihUnal/salihUnal/blob/output/github-contribution-grid-snake.gif)
