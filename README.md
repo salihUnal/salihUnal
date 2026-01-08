@@ -1,6 +1,6 @@
 ![Banner](https://res.cloudinary.com/dklvz02ew/image/upload/w_1200,c_scale/v1767865911/Gemini_Generated_Image_7878e47878e47878_xgghxb.png)
 
-# 👋 Merhaba, Ben Salih Ünal!
+ <h1 align="center">👋 Merhaba, Ben Salih Ünal! </h1>
 
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate FullStack Developer from Turkey</h3>
