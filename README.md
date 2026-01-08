@@ -2,7 +2,7 @@
 
  <h1 align="center">👋 Merhaba, Ben Salih Ünal! </h1>
 
-<h1 align="center">Hi 👋, I'm Salih</h1>
+<h1 align="center">Hi 👋, I'm Salih Ünal</h1>
 <h3 align="center">A passionate FullStack Developer from Turkey</h3>
 
 <p align="center">
